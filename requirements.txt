@@ -7,3 +7,5 @@ protobuf==3.6.1
 pytz==2019.3
 six==1.14.0
 sqlparse==0.3.0
+gunicorn==19.6.0
+whitenoise==3.2
